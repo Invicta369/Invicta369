@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Invicta369
 - 👀 I’m interested in corporate coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on GSoc
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me - sohamthorat24@gmail.com
 
 <!---
