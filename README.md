@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Invicta369
-- 👀 I’m interested in corporate coding
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m @Soham Thorat
 - 📫 How to reach me - sohamthorat24@gmail.com
 
 <!---
